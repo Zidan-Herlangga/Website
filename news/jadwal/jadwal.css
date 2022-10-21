@@ -1,0 +1,26 @@
+.back-color {
+    background-color: white;
+}
+
+.t-thead {
+    background-color: yellow;
+}
+
+.sks2 {
+    background-color: aqua;
+}
+
+.sks3 {
+    background-color: lime;
+}
+
+.keterangan {
+    font-size: 15px;
+    font-family: arial;
+}
+
+.jadwal a {
+    font-family: arial;
+    font-size: 20px;
+    text-decoration: none;
+}
